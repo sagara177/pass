@@ -1,6 +1,6 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		pass.o Capitalize.o
+OBJS =		pass.o
 
 LIBS =
 
